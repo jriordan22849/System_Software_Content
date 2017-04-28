@@ -243,3 +243,35 @@ User: jonathan
 Time : Fri Apr 28 18:01:32 2017
 Transfer of file text.txt completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/Offers/text.txt:
 ------------------------------------------------
+User: jonathan
+Time : Fri Apr 28 18:22:16 2017
+Transfer of file home.html completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/home.html:
+------------------------------------------------
+User: jonathan
+Time : Fri Apr 28 18:23:00 2017
+Transfer of file text.txt completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/Marketing/text.txt:
+------------------------------------------------
+User: j
+Time : Fri Apr 28 18:23:21 2017
+Transfer of file  completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/Marketing/:
+------------------------------------------------
+User: j
+Time : Fri Apr 28 18:23:33 2017
+Transfer of file  completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/Marketing/:
+------------------------------------------------
+User: j
+Time : Fri Apr 28 19:09:25 2017
+Transfer of file text.txt completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/Marketing/text.txt:
+------------------------------------------------
+User: j
+Time : Fri Apr 28 19:12:03 2017
+Transfer of file /Users/macbookpro/Documents/College/Fourth_Year/System_software/example.txt completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/Promotions//Users/macbookpro/Documents/College/Fourth_Year/System_software/example.txt:
+------------------------------------------------
+User: j
+Time : Fri Apr 28 19:13:52 2017
+Transfer of file text.txt completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/text.txt:
+------------------------------------------------
+User: j
+Time : Fri Apr 28 19:16:32 2017
+Transfer of file text.txt completed to directory /Users/macbookpro/Documents/College/Fourth_Year/System_software/Assignment2/server/Sales/text.txt:
+------------------------------------------------

@@ -18,7 +18,6 @@
  
 //the thread function
 void *connection_handler(void *);
-void createFile();
 
 pthread_mutex_t lock_file;
  
@@ -286,15 +285,4 @@ void *connection_handler(void *socket_desc)
 	free(socket_desc);
 	 
 	return 0;
-}
-
-void createFile(char file_contents[2000]) {
-//	printf("\nDirectory changed\n");
-//	FILE *fptr;
-//	fptr = fopen("scores.dat", "rb+");
-//	if(fptr == NULL) //if file does not exist, create it
-//	{
-//		fptr = fopen("scores.dat", "wb");
-//	}
-
 }

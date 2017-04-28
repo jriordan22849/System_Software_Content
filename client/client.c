@@ -91,6 +91,10 @@ int main(int argc , char *argv[])
 				FILE *file = fopen( file_name, "r" );  
 				char c;
 				
+				if(!file) {
+					printf("Error, no file found");
+				}
+				
 				
 				if (file) {
 					// send the file name
@@ -147,7 +151,7 @@ int main(int argc , char *argv[])
 					break;
 					
 					//checkFileTransfer(sock);
-				}			
+				} 		
 			
 		}
 		
